@@ -1,0 +1,27 @@
+### Git ###
+*.orig
+
+### Laravel ###
+/vendor
+/public/hot
+/public/storage
+/storage/*.key
+.env
+Homestead.json
+Homestead.yaml
+
+### Linux ###
+*~
+
+### Node ###
+/node_modules
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+### PHPStorm ###
+/.idea
+
+### Vagrant ###
+/.vagrant
+*.box
