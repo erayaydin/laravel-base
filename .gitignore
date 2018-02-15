@@ -25,3 +25,6 @@ yarn-debug.log*
 ### Vagrant ###
 /.vagrant
 *.box
+
+### Package Specific ###
+_ide_helper.php
